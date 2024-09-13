@@ -1,6 +1,6 @@
 ## Hi, I'm Eric Brown 👋
 
-In the past year I have learned Python, Go, and Javascript.
+In the past year I have learned Python, Go, Javascript, SQL, and Git.
 
 I have a technical background in electronics engineering through my time in the US Navy, and years of professional experience in business operations. I believe my background does lend itself to the mindset of a successful programmer. 
 
